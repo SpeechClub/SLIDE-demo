@@ -1,3 +1,3 @@
-# SLIDE_demo
+# SLIDE-demo
 
-Demos for paper SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation.
+Demo page of the paper "SLIDE: Integrating Speech Language Model with LLM for Spontaneous Spoken Dialogue Generation"
